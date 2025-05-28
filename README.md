@@ -3,7 +3,7 @@
 
 ## 📝 Overview
 
-This project implements a **Real-Time Driver Monitoring System** using computer vision and machine learning techniques. It monitors the driver's facial features in real time to detect signs of drowsiness such as eye closure, yawning, and head pose estimation. When drowsiness is detected, the system triggers **audible alerts** and **desktop notifications** to warn the driver (🚗 💤 🔔).
+This project implements a **Real-Time Driver Monitoring System** using computer vision and machine learning techniques. It monitors the driver's facial features in real time to detect signs of drowsiness such as **eye closure, yawning, and head pose estimation**. When drowsiness is detected, the system triggers **audible alerts** and **desktop notifications** to warn the driver (🚗 💤 🔔).
 
 
 ## ✨ Key Features 
